@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @PatrickOrtDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey I am Patrick
+
+---
+
+| Useg for | Tool |
+| ----------- | ----------- |
+| IDE | Visual Studio 2022 [:link:](https://visualstudio.microsoft.com/de/vs/)|
+| VCS | GitKraken [:link:](https://www.gitkraken.com/)|
+| Clean Code | CodeMaid [:link:](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)|
+| Translation | DeepL [:link:](https://www.deepl.com/de/translator)|
+| VCS | GitKraken [:link:](https://www.gitkraken.com/)|
 
 <!---
 PatrickOrtDev/PatrickOrtDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
